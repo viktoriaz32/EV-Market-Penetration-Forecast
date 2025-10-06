@@ -66,3 +66,10 @@ Calculated average adoption per month relative to the overall mean to highlight 
 4. Scenario Modeling
 Composite uplift formula:
 =1 + Marketing_Uplift + Rebate_Uplift + Charger_Uplift
+
+## Example Insights
+
+- EV adoption increased ~150% from 2021–2024, driven by price reduction and infrastructure growth.
+- Price shows a strong negative correlation with adoption (−0.7).
+- Marketing spend and fast chargers show moderate-to-strong positive relationships.
+- Seasonality peaks in Q4 — reflecting model-year launches and year-end incentives.
