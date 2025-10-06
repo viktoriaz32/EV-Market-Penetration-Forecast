@@ -8,6 +8,10 @@ It was designed to demonstrate advanced Excel analytics, forecasting, and dashbo
 The analysis models how price, marketing spend, rebates, and charging infrastructure influence EV adoption over time.
 It includes full time-series forecasting, scenario testing, and KPI reporting built natively in Excel.
 
+Tools: Python, Excel
+
+Note: All data in this project is simulated for demonstration purposes. No confidential or proprietary automotive data is used.
+
 ## Objectives
 
 - Analyze historical EV adoption data (2021–2024)
