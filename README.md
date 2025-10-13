@@ -76,4 +76,4 @@ Composite uplift formula:
 
 ## Further Remarks
 
-The dashboards can be customized according to client or management preferences, taking into account different business questions or particular problem statements they wish to address. A Bass diffusion model (Bass, 1969) can augment ETS with explicit m (market size), p (innovation) q (imitation) dynamics and richer what-if analysis (rebates, marketing spend, infrastructure, competition).
+The dashboards can be customized according to client or management preferences, taking into account different business questions or particular problem statements they wish to address. A Bass diffusion model (Bass, 1969) can augment ETS with explicit m (market size), p (innovation), and q (imitation) dynamics and richer what-if analysis (rebates, marketing spend, infrastructure, competition).
