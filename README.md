@@ -10,14 +10,14 @@ It includes full time-series forecasting, scenario testing, and KPI reporting bu
 
 Tools: Python, Excel
 
-Note: All data in this project is simulated for demonstration purposes. No confidential or proprietary automotive data is used.
+Notes: Make sure you set your Excel locale to English (US) when opening the CSV so formulas and parsing behave as expected. All data in this project is simulated for demonstration purposes. No confidential or proprietary automotive data is used.
 
 ## Objectives
 
 - Analyze historical EV adoption data (2021–2024)
 - Identify market drivers (price, incentives, chargers, marketing)
 - Forecast adoption trends for 2025–2028 using Excel’s ETS algorithm
-- Simulate optimistic / pessimistic market scenarios
+- Simulate optimistic or pessimistic market scenarios
 - Visualize results in a professional KPI dashboard
 
 ## Feature Description
@@ -28,7 +28,7 @@ Note: All data in this project is simulated for demonstration purposes. No confi
 | `Scenario Control Sheet` | Allows real-time adjustment of marketing, rebate, and infrastructure impacts    |
 | `Correlation Analysis`  | Quantifies the relationships between adoption and market drivers                |
 | `Seasonality Index`     | Identifies monthly seasonality patterns across multiple years                   |
-| `KPI Dashboard`          | Summarizes performance metrics, YoY trends, and driver insights                 |
+| `KPI Dashboard`          | Summarizes performance metrics, Year-over-Year (YoY) trends, and driver insights                 |
 | `Visualization`          | Includes scatter plots, seasonality charts, and confidence band forecast graphs |
 
 
