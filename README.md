@@ -73,3 +73,7 @@ Composite uplift formula:
 - Price shows a strong negative correlation with adoption (−0.7).
 - Marketing spend and fast chargers show moderate-to-strong positive relationships.
 - Seasonality peaks in Q4 — reflecting model-year launches and year-end incentives.
+
+## Further Remarks
+
+The dashboards can be customized according to client or management preferences, taking into account different business questions or particular problem statements they wish to address.
